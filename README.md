@@ -15,7 +15,7 @@ Flex box <img width="25px" src="https://cdn.discordapp.com/attachments/104916766
 ## 📝 Descrição 
 Esse projeto Simula uma pagina do Instagram
 
--WebSite: <a href="https://gusttavohenry.github.io/-Projeto-de-Flex-box-/" target="_blank"> Clique aqui </a>  
+- WebSite: <a href="https://gusttavohenry.github.io/-Projeto-de-Flex-box-/" target="_blank"> Clique aqui </a>  
 
 
 ## 🚀 Linguagens
